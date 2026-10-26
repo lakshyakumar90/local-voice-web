@@ -1,0 +1,68 @@
+[
+  {
+    "clientWidth": 1430,
+    "docHeight": 6285,
+    "dpr": 1.100000023841858,
+    "header": 92.89772033691406,
+    "height": 3636,
+    "scrollY": 0,
+    "width": 1440,
+    "name": "desktop",
+    "file": "desktop-final-tile-0.png"
+  },
+  {
+    "clientWidth": 1430,
+    "docHeight": 6285,
+    "dpr": 1.100000023841858,
+    "header": 92.89772033691406,
+    "height": 3636,
+    "scrollY": 1676.3636474609375,
+    "width": 1440,
+    "name": "desktop",
+    "file": "desktop-final-tile-1.png"
+  },
+  {
+    "clientWidth": 1430,
+    "docHeight": 6285,
+    "dpr": 1.100000023841858,
+    "header": 92.89772033691406,
+    "height": 3636,
+    "scrollY": 2649.0908203125,
+    "width": 1440,
+    "name": "desktop",
+    "file": "desktop-final-tile-2.png"
+  },
+  {
+    "clientWidth": 380,
+    "docHeight": 7672,
+    "dpr": 1.100000023841858,
+    "header": 74.90056610107422,
+    "height": 3636,
+    "scrollY": 0,
+    "width": 390,
+    "name": "mobile",
+    "file": "mobile-final-tile-0.png"
+  },
+  {
+    "clientWidth": 380,
+    "docHeight": 7672,
+    "dpr": 1.100000023841858,
+    "header": 74.90056610107422,
+    "height": 3636,
+    "scrollY": 2180,
+    "width": 390,
+    "name": "mobile",
+    "file": "mobile-final-tile-1.png"
+  },
+  {
+    "clientWidth": 380,
+    "docHeight": 7672,
+    "dpr": 1.100000023841858,
+    "header": 74.90056610107422,
+    "height": 3636,
+    "scrollY": 4035.454345703125,
+    "width": 390,
+    "name": "mobile",
+    "file": "mobile-final-tile-2.png"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "version": "0.4.2",
+  "versionCode": 13,
+  "package": "dev.localvoice.app.release",
+  "filename": "localvoice.apk",
+  "bytes": 26309614,
+  "sha256": "4dd5f107f345101240b7ef0f04355058572a07bc0f71cdd02c6c540d560e9ff1",
+  "certificateSha256": "19831053b5bc70a9c7063076cf5ba2106670250632ff2c5a44560296bfa0cf93",
+  "signing": "APK Signature Scheme v2 / RSA-4096",
+  "debuggable": false,
+  "abis": ["arm64-v8a"],
+  "minSdk": 26,
+  "targetSdk": 36,
+  "codeMinified": true,
+  "resourcesShrunk": true,
+  "zip16KBAligned": true,
+  "elfLibraries": [
+    {
+      "library": "lib/arm64-v8a/libandroidx.graphics.path.so",
+      "load_alignment": [16384, 16384, 16384],
+      "16kb_elf_compatible": true
+    },
+    {
+      "library": "lib/arm64-v8a/libdatastore_shared_counter.so",
+      "load_alignment": [16384, 16384, 16384],
+      "16kb_elf_compatible": true
+    },
+    {
+      "library": "lib/arm64-v8a/liblocalvoice.so",
+      "load_alignment": [16384, 16384, 16384],
+      "16kb_elf_compatible": true
+    },
+    {
+      "library": "lib/arm64-v8a/liblocalvoice_llm.so",
+      "load_alignment": [16384, 16384, 16384],
+      "16kb_elf_compatible": true
+    },
+    {
+      "library": "lib/arm64-v8a/libmoonshine-jni.so",
+      "load_alignment": [16384, 16384, 16384],
+      "16kb_elf_compatible": true
+    },
+    {
+      "library": "lib/arm64-v8a/libmoonshine.so",
+      "load_alignment": [16384, 16384, 16384],
+      "16kb_elf_compatible": true
+    },
+    {
+      "library": "lib/arm64-v8a/libonnxruntime.so",
+      "load_alignment": [16384, 16384, 16384],
+      "16kb_elf_compatible": true
+    }
+  ],
+  "tests": {
+    "tests": 107,
+    "errors": 0,
+    "failures": 0,
+    "skipped": 0
+  },
+  "releaseLint": {
+    "Error": 0,
+    "Warning": 28
+  },
+  "phoneRuntimeVerified": false
+}

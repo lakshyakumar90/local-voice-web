@@ -1,0 +1,578 @@
+[
+  {
+    "h1Height": 171.19317626953125,
+    "h1LineHeight": "85.6px",
+    "height": 1000,
+    "nav": "flex",
+    "overflow": 0,
+    "scrollY": 0,
+    "targets": [
+      {
+        "height": 44.38920211791992,
+        "text": "Get the app"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "See how it works"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "English"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Hindi"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Roman Hindi"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Play example"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Set up the field mic"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "A clearer look at privacy"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Read the full guide"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Setup guide"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Local models"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Release notes"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Download APK"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Portfolio"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "LinkedIn"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "X / Twitter"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "GitHub"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Lakshya Kumar"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Privacy"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Terms"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Contact"
+      }
+    ],
+    "width": 1440,
+    "name": "desktop-normal"
+  },
+  {
+    "h1Height": 128.38067626953125,
+    "h1LineHeight": "64.2px",
+    "height": 800,
+    "nav": "flex",
+    "overflow": 0,
+    "scrollY": 0,
+    "targets": [
+      {
+        "height": 43.99147415161133,
+        "text": "Get the app"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "See how it works"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "English"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Hindi"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Roman Hindi"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Play example"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Set up the field mic"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "A clearer look at privacy"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Read the full guide"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Setup guide"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Local models"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Release notes"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Download APK"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Portfolio"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "LinkedIn"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "X / Twitter"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "GitHub"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Lakshya Kumar"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Privacy"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Terms"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Contact"
+      }
+    ],
+    "width": 1000,
+    "name": "tablet-1000"
+  },
+  {
+    "h1Height": 139.7158966064453,
+    "h1LineHeight": "69.8661px",
+    "height": 931,
+    "nav": "none",
+    "overflow": 0,
+    "scrollY": 0,
+    "targets": [
+      {
+        "height": 43.99147415161133,
+        "text": "Get the app"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "See how it works"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "English"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Hindi"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Roman Hindi"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Play example"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Set up the field mic"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "A clearer look at privacy"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Read the full guide"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Setup guide"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Local models"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Release notes"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Download APK"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Portfolio"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "LinkedIn"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "X / Twitter"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "GitHub"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Lakshya Kumar"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Privacy"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Terms"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Contact"
+      }
+    ],
+    "width": 768,
+    "name": "tablet-768"
+  },
+  {
+    "h1Height": 98.40908813476562,
+    "h1LineHeight": "49.22px",
+    "height": 524,
+    "nav": "none",
+    "overflow": 0,
+    "scrollY": 0,
+    "targets": [
+      {
+        "height": 43.99147415161133,
+        "text": "Get the app"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "See how it works"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "English"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Hindi"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Roman Hindi"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Play example"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Set up the field mic"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "A clearer look at privacy"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Read the full guide"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Setup guide"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Local models"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Release notes"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Download APK"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Portfolio"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "LinkedIn"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "X / Twitter"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "GitHub"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Lakshya Kumar"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Privacy"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Terms"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Contact"
+      }
+    ],
+    "width": 487,
+    "name": "user-487"
+  },
+  {
+    "h1Height": 89.85794830322266,
+    "h1LineHeight": "44.94px",
+    "height": 800,
+    "nav": "none",
+    "overflow": 0,
+    "scrollY": 0,
+    "targets": [
+      {
+        "height": 43.99147415161133,
+        "text": "Get the app"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "See how it works"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "English"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Hindi"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Roman Hindi"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Play example"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Set up the field mic"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "A clearer look at privacy"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Read the full guide"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Setup guide"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Local models"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Release notes"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Download APK"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Portfolio"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "LinkedIn"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "X / Twitter"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "GitHub"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Lakshya Kumar"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Privacy"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Terms"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Contact"
+      }
+    ],
+    "width": 390,
+    "name": "mobile-normal"
+  },
+  {
+    "h1Height": 179.7158966064453,
+    "h1LineHeight": "44.94px",
+    "height": 800,
+    "nav": "none",
+    "overflow": 0,
+    "scrollY": 0,
+    "targets": [
+      {
+        "height": 70.73863220214844,
+        "text": "Get the app"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "See how it works"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "English"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Hindi"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Roman Hindi"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Play example"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Set up the field mic"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "A clearer look at privacy"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Read the full guide"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Setup guide"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Local models"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Release notes"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Download APK"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Portfolio"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "LinkedIn"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "X / Twitter"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "GitHub"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Lakshya Kumar"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Privacy"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Terms"
+      },
+      {
+        "height": 43.99147415161133,
+        "text": "Contact"
+      }
+    ],
+    "width": 320,
+    "name": "narrow-320"
+  }
+]

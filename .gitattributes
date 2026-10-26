@@ -1,0 +1,13 @@
+* text=auto
+*.apk binary
+*.sha256 -text
+*.png binary
+*.webp binary
+*.ico binary
+*.ttf binary
+*.woff2 binary
+*.tsx text eol=lf
+*.ts text eol=lf
+*.css text eol=lf
+*.md text eol=lf
+*.json text eol=lf

@@ -1,0 +1,212 @@
+[
+  {
+    "file": "public/brand/fonts/Manrope.ttf",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\fonts\\Manrope.ttf",
+    "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+    "bytes": 164700,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/fonts/Manrope.woff2",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\fonts\\Manrope.woff2",
+    "sha256": "30b83738add8c9edd9e3450b98036a9a8fb5668d0cbd4eb0ce5fe6761197f21f",
+    "bytes": 53892,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/fonts/OFL-Manrope.txt",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\fonts\\OFL-Manrope.txt",
+    "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+    "bytes": 4387,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/icons/app-icon-1024.png",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\icons\\app-icon-1024.png",
+    "sha256": "ee3b8b9b9c034e71de42201622b743cc9d385b7792b914de781bb7f52d28cf30",
+    "bytes": 40795,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/icons/app-icon-180.png",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\icons\\app-icon-180.png",
+    "sha256": "d5a15b6d0e69acb4117926a8192b0430a77a8af6a1c75769f759e9abba69e81d",
+    "bytes": 6537,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/icons/app-icon-192.png",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\icons\\app-icon-192.png",
+    "sha256": "06a1b2a2de7cc9becf820ab7e66e60a15ba19966ab9ef1bc156e975c38240ae7",
+    "bytes": 7199,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/icons/app-icon-32.png",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\icons\\app-icon-32.png",
+    "sha256": "1ee94aeea23ca6bfec8f496d31e280a13048be12153469fe125d8e669ead9cc8",
+    "bytes": 1152,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/icons/app-icon-48.png",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\icons\\app-icon-48.png",
+    "sha256": "9469db3a3990cf5f6ab582c7e89b042b4bed9e2546c8c87377af8ffe9d198212",
+    "bytes": 1811,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/icons/app-icon-512.png",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\icons\\app-icon-512.png",
+    "sha256": "99f4b9323357f8ab99671fd1f5365023927f0756e4dcd0eebde441b3844b7414",
+    "bytes": 19178,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/icons/app-icon.svg",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\icons\\app-icon.svg",
+    "sha256": "564b1a3a9f33db1a4b960542bd1318019e9158ea3cce7a7100580245141b28f7",
+    "bytes": 593,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/icons/favicon.ico",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\icons\\favicon.ico",
+    "sha256": "cd9f811f345a5dc94dba59568c164bfae73c3833f23c9947a99d6ae8832686f8",
+    "bytes": 1822,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/icons/favicon.svg",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\icons\\favicon.svg",
+    "sha256": "10747cd4b4e1c082c96a9910c8a5a2986e64a89af8e1072630e8f6028d3dcd35",
+    "bytes": 558,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/illustrations/listening-wave.svg",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\illustrations\\listening-wave.svg",
+    "sha256": "b7e948fc05f1cbdcad6ef42c3defc3e94ec9c064f4c10952a790b29c26e51b87",
+    "bytes": 514,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/illustrations/local-processing.svg",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\illustrations\\local-processing.svg",
+    "sha256": "9520d99403f93c49f82bbf56e45ce82311efa97d59fcaaee7bbe8807155b1ead",
+    "bytes": 1031,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/illustrations/speech-to-text.svg",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\illustrations\\speech-to-text.svg",
+    "sha256": "c195ee1e7033852323ac3f57b12d0bf11b08fae4672ea62314918a52c23cbdcb",
+    "bytes": 1105,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/illustrations/voice-material-mobile.webp",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\illustrations\\voice-material-mobile.webp",
+    "sha256": "3bc522179b52217931e8860c5e0e4a3039075d93be11d74c0cb36e15bd413904",
+    "bytes": 18926,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/illustrations/voice-material.webp",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\illustrations\\voice-material.webp",
+    "sha256": "3806bb584906834f11898c469c67ef30f7744c106cdb5a899fa1ec29cb6c04b7",
+    "bytes": 39894,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/logos/mark-ink.svg",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\logos\\mark-ink.svg",
+    "sha256": "02704dcf4012a607fdafb9d3d805a8e2369dce5d67bf3783f1bd9634ed39c343",
+    "bytes": 512,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/logos/mark-teal.svg",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\logos\\mark-teal.svg",
+    "sha256": "da49363d52656c89eda645ee1b52a8e7f81aded2b6eef263c0c373d526382d21",
+    "bytes": 513,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/logos/mark-white.svg",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\logos\\mark-white.svg",
+    "sha256": "4b8f582081ffe8777ea55274803cb6edaeb1e99746e9059d1fd96439bd869bd3",
+    "bytes": 514,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/logos/wordmark-ink.png",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\logos\\wordmark-ink.png",
+    "sha256": "511ab19af4fcabbcec11fd1fa51dea77f592fe67200e26d14d3fa7dbfdeb52ad",
+    "bytes": 8756,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/logos/wordmark-ink.svg",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\logos\\wordmark-ink.svg",
+    "sha256": "cefa6ce8de62abdad78dd10302592b2de7946326aa90b17d504ee055d03298d0",
+    "bytes": 7368,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/logos/wordmark-teal.png",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\logos\\wordmark-teal.png",
+    "sha256": "618ff4aa8e6bfb3fd14df5f57725a6d7ec8ba365b014bfd60523ae88467ce394",
+    "bytes": 8801,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/logos/wordmark-teal.svg",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\logos\\wordmark-teal.svg",
+    "sha256": "e3f6af57d4534709a6d4d2b46a1fb028f1aa8011c75ef03225b6b8bd3c73245b",
+    "bytes": 7368,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/logos/wordmark-white.png",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\logos\\wordmark-white.png",
+    "sha256": "5a4111ffe9f1454fbda03d7600611237a903753478ddae147e4314e2056908a1",
+    "bytes": 8523,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/brand/logos/wordmark-white.svg",
+    "origin": "C:\\Lakshya\\wispr\\assets\\brand\\logos\\wordmark-white.svg",
+    "sha256": "be890ea00d3dfc2448400bcb0fbd01b59185279494be1ecafcf5bf430b3ec8e8",
+    "bytes": 7368,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "public/localvoice.apk",
+    "origin": "C:/Lakshya/wispr/app/build/outputs/apk/release/app-release.apk (0.4.2 signed release)",
+    "sha256": "4dd5f107f345101240b7ef0f04355058572a07bc0f71cdd02c6c540d560e9ff1",
+    "bytes": 26309614,
+    "kind": "signed release artifact; copied unchanged"
+  },
+  {
+    "file": "public/localvoice.apk.sha256",
+    "origin": "SHA-256 checksum of public/localvoice.apk",
+    "sha256": "94ae489f444d6fb24dea313a62c3ec790cf93e13403caacb2716d196e64c8939",
+    "bytes": 82,
+    "kind": "checksum file; regenerated for the 0.4.2 release"
+  },
+  {
+    "file": "public/og.png",
+    "origin": "Local Voice original brand kit: social/open-graph.png",
+    "sha256": "20762d32aad71d4457d4ee5f319f6701e9e707a9ef9729e7382d936780c7694d",
+    "bytes": 431111,
+    "kind": "pre-existing project asset; copied unchanged"
+  },
+  {
+    "file": "app/favicon.ico",
+    "origin": "C:/Lakshya/wispr/assets/brand/icons/favicon.ico",
+    "sha256": "cd9f811f345a5dc94dba59568c164bfae73c3833f23c9947a99d6ae8832686f8",
+    "bytes": 1822,
+    "kind": "pre-existing project asset; copied unchanged"
+  }
+]

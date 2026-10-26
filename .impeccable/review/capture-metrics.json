@@ -1,0 +1,72 @@
+[
+  {
+    "clientWidth": 1430,
+    "docHeight": 6134,
+    "dpr": 1.100000023841858,
+    "height": 3636,
+    "scrollY": 0,
+    "width": 1440,
+    "file": "desktop-tile-0.png",
+    "name": "desktop"
+  },
+  {
+    "clientWidth": 1430,
+    "docHeight": 6134,
+    "dpr": 1.100000023841858,
+    "height": 3636,
+    "scrollY": 2497.272705078125,
+    "width": 1440,
+    "file": "desktop-tile-1.png",
+    "name": "desktop"
+  },
+  {
+    "clientWidth": 380,
+    "docHeight": 7459,
+    "dpr": 1.100000023841858,
+    "height": 3636,
+    "scrollY": 285.45452880859375,
+    "width": 390,
+    "file": "mobile-tile-0.png",
+    "name": "mobile"
+  },
+  {
+    "clientWidth": 380,
+    "docHeight": 7459,
+    "dpr": 1.100000023841858,
+    "height": 3636,
+    "scrollY": 0,
+    "width": 390,
+    "file": "mobile-tile-1.png",
+    "name": "mobile"
+  },
+  {
+    "clientWidth": 380,
+    "docHeight": 7459,
+    "dpr": 1.100000023841858,
+    "height": 3636,
+    "scrollY": 3822.727294921875,
+    "width": 390,
+    "file": "mobile-tile-2.png",
+    "name": "mobile"
+  },
+  {
+    "clientWidth": 758,
+    "docHeight": 6939,
+    "dpr": 1.100000023841858,
+    "height": 3636,
+    "scrollY": 0,
+    "width": 768,
+    "file": "tablet-768-tile-0.png",
+    "name": "tablet-768"
+  },
+  {
+    "clientWidth": 758,
+    "docHeight": 6939,
+    "dpr": 1.100000023841858,
+    "height": 3636,
+    "scrollY": 3302.727294921875,
+    "width": 768,
+    "file": "tablet-768-tile-1.png",
+    "name": "tablet-768"
+  }
+]
